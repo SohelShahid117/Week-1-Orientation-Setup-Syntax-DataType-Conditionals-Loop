@@ -1,0 +1,16 @@
+1.help:
+mail:support@phitron.io
+support session:11am-13pm(morning),4pm-6pm(evening),9pm-11pm(night)
+
+2.daily 24 hr k tin bage bag koro
+
+a.8hr-->ghom + binodon
+b.8hr-->programming hero(4hr) + phitron(4hr)
+c.8hr-->job
+
+a.20pm--4am-->sleep+family
+b.4am-8am--->programming hero
+c.8am-12pm-->phitron
+d.12pm--20pm-->job
+
+3.setup resource : https://drive.google.com/drive/folders/165Ka6TWfDh1qqSYuSMY_Z4r4O_o0hwwR
