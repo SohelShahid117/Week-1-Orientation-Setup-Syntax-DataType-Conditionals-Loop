@@ -42,13 +42,21 @@ int main(){
     scanf("%d",&k);
 
        for(int m=0;m<k;m++){
-
         for(int n=0;n<=m;n++){
             printf("* ");
         }
         printf("\n");
+        }
 
+       /*
+       for(int m=0;m<k;m++){
+
+        for(int n=0;n<=k-(m-0);n++){
+            printf("* ");
+        }
+        printf("\n");
     }
+    */
 
 
     //Conceptual Session two [Conditional Statements and Loop]-1:40min done
